@@ -102,7 +102,7 @@ img {
 
 .main-content-new .new-product img,
 .main-content-collection .collection-product img {
-  max-height: 60vh;
+  max-height: 55vh;
   max-width: 50vh;
   margin: 20px;
 }
